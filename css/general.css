@@ -1,0 +1,172 @@
+@-moz-viewport {width: device-width; scale:1;}
+@-ms-viewport {width: device-width; scale:1;}
+@-o-viewport {width: device-width; scale:1;}
+@-webkit-viewport {width: device-width; scale:1;}
+@viewport {width: device-width; scale:1;}
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html {
+	margin: 0;
+	padding: 0;
+	font: 300 100%/1.5 'Source Sans Pro', sans-serif;
+}
+
+body {
+	margin: 0;
+	padding: 0 10px 0 10px;
+}
+
+h1 {
+	text-align:center;
+	padding:3% 0 0 0;
+}
+
+.logoalt {
+	display:none;
+}
+
+h2 {
+	color: #666;
+	font: 300 140%/1.5 'Source Sans Pro', sans-serif;
+	text-transform:uppercase;
+}
+
+
+nav ul {
+	list-style-type:none;
+	text-align:center;
+	padding-left:0;
+}
+
+nav li {
+	display: inline-block;
+	text-align:center;
+}
+
+
+nav a {
+	display: inline-block;
+	text-decoration: none;
+	color:#999;
+	text-transform:uppercase;
+}
+
+.work-list {
+	text-align: left;
+	list-style-type: none;
+	margin:0px -10px;
+	padding:0px;
+}
+
+.work-list a,
+.work-list a:link,
+.work-list a:visited {
+	border: 0px;
+	color: #000;
+	font-style:italic;
+	text-decoration: none;
+}
+
+.work-list img {
+	display:block;
+	width: 100%;
+}
+
+
+
+@media only screen and (min-width: 30em) {
+
+
+.work-list {
+	padding-left:2%;
+}
+
+.work-list figure {
+	margin:0;
+	padding: 10px;
+	display:block;
+	color: #999;
+}
+
+.work-list img {
+	display:block;
+	width: 100%;
+}
+
+.work-list li {
+	display:inline-block;
+	width: 48%;
+}
+
+
+
+}
+
+@media only screen and (min-width: 60em) {
+
+
+
+body {
+	font-size:1rem;
+}
+}
+
+@media only screen and (min-width: 70em) {
+
+body {
+	font-size:1.2rem;
+	padding:0 50px 0 50px;
+
+}
+}
+
+
+@media only screen and (min-width: 80em) {
+
+
+.logo {
+	display:none;
+}
+
+.logoalt {
+	display: inline-block;
+}
+
+body {
+	font-size:1.4rem;
+}
+}
+
+@media only screen and (min-width: 90em) {
+
+body {
+	font-size:1.6rem;
+}
+}
+
+@media only screen and (min-width: 90em) {
+
+body {
+	font-size:2rem;
+}
+}
+
+
+.top-link {
+	text-decoration:none;
+	text-align: center;
+}
+
+.top-link a,
+.top-link a:link,
+.top-link a:visited {
+	text-decoration:none;
+	color:#333;
+}
+	
+	
