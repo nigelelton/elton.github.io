@@ -1,7 +1,12 @@
+html {
+	color: #333333;
+}
+
 body {
-	margin: 0;
-	padding: 0;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
 	font: normal 100%/1.5 helvetica,sans-serif;
+	background-color: #ccc;
 }
 
 img {
@@ -9,11 +14,41 @@ img {
 	margin: 0 auto;
 }
 
-section {
-	padding: 10rem 0;
+.hero-section {
+	background-color: #ffffff;
+	padding-bottom: 10%;
+	background: transparent url("../images/landscape.jpg") no-repeat center top;
+	background-size: cover;
 }
 
-.hero-section {
-	background: transparent url("img/landscape.jpg") no-repeat center top;
-	background-size: cover;
+
+.logo {
+	width: 26%;
+	height: auto;
+	padding-top: 12%;
+}
+
+
+.about-wrapper {
+	padding: 7% 15% 0 15%;
+}	
+
+.about-section{
+	margin-bottom: 2em;
+	border-bottom: 3px solid #993333;
+	padding-bottom: 10%;
+}
+
+h2 {
+	letter-spacing: 10px;
+	font-size: 100%;
+}
+
+p {
+	padding: 0 15% 0 15%;
+}
+
+
+.work-section{
+	padding: 5% 15% 0 15%;
 }
