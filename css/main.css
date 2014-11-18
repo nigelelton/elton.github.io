@@ -90,7 +90,7 @@ p {
 
 .logo-wrap {
 	margin: 0;
-	padding-top: 12%;
+	padding-top: 15%;
 }
 
 .fixed-nav {
@@ -230,13 +230,9 @@ p {
 }
 
 .logo {
-	width: 35%;
+	width: 40%;
 	height: auto;
-	padding-top: 12%;
 }
-
-	.work-section{
-	}
 
 	.work-list {
 		text-align: left;
