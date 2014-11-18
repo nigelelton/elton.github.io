@@ -166,7 +166,7 @@ footer nav a {
 .linkedin {
 	background-image: url("../images/linkedin-dark.svg");
 }
-.behanced {
+.behance {
 	background-image: url("../images/behance-dark.svg");
 }
 .vimeo {
@@ -179,7 +179,7 @@ footer nav a {
 .linkedin:hover {
 	background-image: url("../images/linkedin-white.svg");
 }
-.behanced:hover {
+.behance:hover {
 	background-image: url("../images/behance-white.svg");
 }
 .vimeo:hover {
