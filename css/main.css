@@ -79,15 +79,18 @@ h3 {
 p {
 	font-size: 1em;
 	color: #333333;
-	margin: 0 15% 0 15%;
+	margin: 0;
 	padding-bottom: 2.2em;
 }
 
-
 .logo {
-	width: 80%;
-	height: 100%;
-	padding-top: 7%;
+	width: 60%;
+	height: auto;
+}
+
+.logo-wrap {
+	margin: 0;
+	padding-top: 12%;
 }
 
 .fixed-nav {
@@ -220,6 +223,10 @@ h2 {
 
 h3 {
 	font-size: 3em;
+}
+
+p {
+	margin: 0 15% 0 15%;
 }
 
 .logo {
