@@ -19,7 +19,7 @@ body {
 }
 section {
 	padding-top: 7%;
-	margin: 5em;
+	margin: 1em;
 	margin-top: 0;
 }
 img {
@@ -40,11 +40,10 @@ header nav ul {
 	margin: 0;
 	padding:0;
 	padding-top: 1em;
-	text-align: right;
+	text-align: center;
 }
 
 header nav li {
-	display: inline-block;
 	padding: 0 0 .5em 0;
 	letter-spacing: 10px;
 	text-transform: uppercase;
@@ -73,7 +72,6 @@ h2 {
 
 h3 {
 	color: #333333;
-	margin: 0 15% 0 15%;
 }
 
 p {
@@ -215,18 +213,36 @@ footer nav a {
 	background-image: url("../images/vimeo-white.svg");
 }
 
+@media only screen and (min-width: 20em) {
+
+	header nav li {
+	display: inline-block;
+}
+}
+
 @media only screen and (min-width: 40em) {
 	
+header nav ul {
+	text-align: right;
+}
+
 h2 {
 	text-align: left;
 }	
 
 h3 {
 	font-size: 3em;
+	margin: 0 15% 0 15%;
 }
 
 p {
 	margin: 0 15% 0 15%;
+}
+
+section {
+	padding-top: 7%;
+	margin: 5em;
+	margin-top: 0;
 }
 
 .logo {
