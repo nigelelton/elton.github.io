@@ -15,7 +15,7 @@ body {
 	padding: 0 0 0 0;
 	font: normal 100%/1.5 helvetica,sans-serif;
 	font-size: 16px;
-	background-color: #CCCCCC;
+	background-color: #ffffff;
 }
 section {
 	padding-top: 7%;
@@ -53,7 +53,7 @@ header nav li {
 header nav li a {
 	text-decoration: none;
 	color: #ffffff;
-	padding-right: 1.2em;
+	padding-right: 1.5em;
 }
 
 header nav li a:hover {
@@ -73,6 +73,7 @@ h2 {
 h3 {
 	color: #333333;
 }
+
 
 p {
 	font-size: 1em;
@@ -134,6 +135,7 @@ p {
 	width: 100%;
 }
 
+
 .overlay {
 	display: block;
 	position: absolute;
@@ -149,6 +151,12 @@ p {
 	opacity: .8;
 }
 
+h4 {
+	padding: 20% 0 0 0;
+	color: #ffffff;
+	font-style: normal;
+	text-align: center;
+}
 
 footer {
 	background-color: #333333;
@@ -222,9 +230,6 @@ footer nav a {
 
 @media only screen and (min-width: 40em) {
 	
-header nav ul {
-	text-align: right;
-}
 
 h2 {
 	text-align: left;
@@ -281,6 +286,14 @@ section {
 
 }
 
+@media only screen and (min-width: 55em) {
+
+	header nav ul {
+		text-align: right;
+	}
+
+}
+
 @media only screen and (min-width: 60em) {
 
 	.work-section{
@@ -310,4 +323,30 @@ section {
 		display:inline-block;
 		width: 32.9%;
 	}
+}
+
+@media only screen and (min-width: 80em) {
+
+.logo {
+	width: 30%;	
+}
+
+.logo-wrap {
+	padding-top: 10%;
+}
+
+h2{
+	font-size: 1.2em;
+}
+
+h3 {
+	font-size: 3em;
+	margin: 0 27% 0 27%;
+}
+
+p {
+	margin: 0 27% 0 27%;
+	font-size: 1.5em;
+}
+
 }
