@@ -1,3 +1,82 @@
-html {
-	font-style: sans-serif;
+@-moz-viewport {width: device-width; scale:1;}
+@-ms-viewport {width: device-width; scale:1;}
+@-o-viewport {width: device-width; scale:1;}
+@-webkit-viewport {width: device-width; scale:1;}
+@viewport {width: device-width; scale:1;}
+
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	font: normal 100%/1.5 helvetica,sans-serif;
+	font-size: 16px;
+	background-color: #ffffff;
+}
+section {
+	padding-top: 7%;
+	margin: 1em;
+	margin-top: 0;
+}
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+header {
+	background-color: #ffffff;
+	padding-bottom: 10%;
+	background: transparent url("../images/landscape.jpg") no-repeat center top;
+	background-size: cover;
+	margin: 0;
+}
+
+header nav ul {
+	list-style: none;
+	margin: 0;
+	padding:0;
+	padding-top: 1em;
+	text-align: center;
+}
+
+header nav li {
+	padding: 0 0 .5em 0;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	font-size: .7em;
+}
+
+header nav li a {
+	text-decoration: none;
+	color: #ffffff;
+	padding-right: 1.5em;
+}
+
+header nav li a:hover {
+	color: #993333;
+}
+.logo {
+	width: 60%;
+	height: auto;
+}
+
+.logo-wrap {
+	margin: 0;
+	padding-top: 15%;
+}
+
+.fixed-nav {
+	background-color: #333333;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 10000;
+}
+
+.fixed-nav ul {
+	padding-top: 0.2em;
 }
