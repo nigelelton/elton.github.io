@@ -179,9 +179,8 @@ footer nav ul {
 }
 
 footer nav ul li {
-	display: inline-block;
-	width: 23%;
-
+	display: inline;
+	width: 17%;
 }
 
 footer nav ul li span {
@@ -192,7 +191,7 @@ footer nav a {
 	width: 3em;
 	height: 2em;
 	display: block;
-	margin: 0 auto;
+	margin: 1.5em auto;
 }
 
 .email {
@@ -226,6 +225,17 @@ footer nav a {
 	header nav li {
 	display: inline-block;
 }
+}
+
+
+@media only screen and (min-width: 34em) {
+
+footer nav ul li {
+	display: inline-block;
+	width: 23%;
+
+}	
+
 }
 
 @media only screen and (min-width: 40em) {
@@ -285,6 +295,8 @@ section {
 	}
 
 }
+
+
 
 @media only screen and (min-width: 55em) {
 
