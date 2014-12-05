@@ -59,12 +59,13 @@ header nav li a {
 header nav li a:hover {
 	color: #993333;
 }
-.logo {
+
+img {
 	width: 60%;
 	height: auto;
 }
 
-.logo-wrap {
+.error-wrap {
 	margin: 0;
 	padding-top: 15%;
 }
@@ -80,3 +81,148 @@ header nav li a:hover {
 .fixed-nav ul {
 	padding-top: 0.2em;
 }
+
+
+h2 {
+	letter-spacing: 10px;
+	font-size: 100%;
+	text-align: center;
+	font-size: .9em;
+	padding-bottom: 2em;
+	text-transform: uppercase;
+	color: #333333;
+}
+
+
+footer {
+	background-color: #333333;
+	padding: 5em;
+}
+
+footer nav {
+	width: 100%;
+	margin: 0 auto;
+}
+
+footer h2 {
+		color: #ffffff;
+}
+
+footer nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer nav ul li {
+	display: inline;
+	width: 17%;
+}
+
+footer nav ul li span {
+	display: none;
+}
+
+footer nav a {
+	width: 3em;
+	height: 2em;
+	display: block;
+	margin: 1.5em auto;
+}
+
+.email {
+	background-image: url("../images/email-dark.svg");
+}
+.linkedin {
+	background-image: url("../images/linkedin-dark.svg");
+}
+.behance {
+	background-image: url("../images/behance-dark.svg");
+}
+.vimeo {
+	background-image: url("../images/vimeo-dark.svg");
+}
+
+.email:hover {
+	background-image: url("../images/email-white.svg");
+}
+.linkedin:hover {
+	background-image: url("../images/linkedin-white.svg");
+}
+.behance:hover {
+	background-image: url("../images/behance-white.svg");
+}
+.vimeo:hover {
+	background-image: url("../images/vimeo-white.svg");
+}
+
+
+
+@media only screen and (min-width: 20em) {
+
+	header nav li {
+	display: inline-block;
+}
+}
+
+
+@media only screen and (min-width: 34em) {
+
+footer nav ul li {
+	display: inline-block;
+	width: 23%;
+
+}	
+
+
+@media only screen and (min-width: 40em) {
+
+.shit {
+	width: 40%;
+	height: auto;
+}
+
+section {
+	padding-top: 7%;
+	margin: 5em;
+	margin-top: 0;
+}
+
+h2 {
+	text-align: left;
+}	
+
+footer nav {
+		width: 60%;
+}
+
+}
+
+@media only screen and (min-width: 55em) {
+
+	header nav ul {
+		text-align: right;
+	}
+
+}
+
+
+@media only screen and (min-width: 80em) {
+
+.shit {
+	width: 30%;	
+}
+
+.error-wrap {
+	padding-top: 10%;
+}
+
+h2{
+	font-size: 1.2em;
+}
+}
+
+
+
+
+
