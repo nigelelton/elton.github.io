@@ -4,7 +4,9 @@
 		<meta charset="utf-8">
 		<title>Nigel Elton · Designer · Ottawa, Canada</title>
 		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<link rel="shortcut icon" type="image/n-favicon.png" href="favicon.ico" />
 
 		<!--
 		<meta name="description" content="Nigel Elton, Graphic / UI Designer">
@@ -38,7 +40,7 @@
 <body>
 
 <header class="hero-section">
-	<nav class="fixed-nav">
+	<nav>
 		<ul>
 			<li><a href="#about">About</a></li>
 			<li><a href="#work">Work</a></li>
@@ -49,7 +51,7 @@
 </header>
 
 
-<section class="about-section" id="about">
+<section class="about-section nav-fixed" id="about">
 	<h2>About</h2>
 	<h3>A picture is worth 1000 words.</h3>
 	<!-- "Turnip" will not be my tageline/opener. -->
@@ -63,7 +65,7 @@
 	<h2>Work</h2>
 	<ul class="work-list">
 		<li>
-			<a href="#">
+			<a href="images/test1.jpg">
 				<figure>
 					<figurecaption class="overlay">
 					<h4>Soma Brand Package</h4>
@@ -73,7 +75,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="images/test2.jpg">
 				<figure>
 					<figurecaption class="overlay">
 					<h4>Type Specimen Poster</h4>
@@ -83,7 +85,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="images/test1.jpg">
 				<figure>
 					<figurecaption class="overlay">
 					<h4>Type & Collage</h4>
@@ -93,7 +95,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="images/test2.jpg">
 				<figure>
 					<figurecaption class="overlay">
 					<h4>Battlefield Infographic</h4>
@@ -103,7 +105,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="images/test1.jpg">
 				<figure>
 					<figurecaption class="overlay">
 					<h4>Reach Inc. Branding</h4>
@@ -113,16 +115,17 @@
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="images/test2.jpg">
 				<figure>
 					<figurecaption class="overlay">
+					<h4>Film Noir Poster</h4>
 					</figurecaption>
 					<img src="images/port-6.jpg" alt="port6">
 				</figure>
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="images/test1.jpg">
 				<figure>
 					<figurecaption class="overlay">
 					<h4>Newspaper Illustration</h4>
@@ -132,7 +135,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="images/test2.jpg">
 				<figure>
 					<figurecaption class="overlay">
 					<h4>Game of Thrones Poster</h4>
@@ -142,7 +145,7 @@
 			</a>
 		</li>
 		<li>
-			<a href="#">
+			<a href="images/test1.jpg">
 				<figure>
 					<figurecaption class="overlay">
 					<h4>Photography</h4>
@@ -153,7 +156,6 @@
 		</li>
 	</ul>
 </section>
-
 
 <footer id="contact">
 	<h2>Contact</h2>
@@ -170,8 +172,12 @@
 
 <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script src="js/waypoints.min.js"></script>
+<script src="js/magnific.js"></script>
 <script src="js/main.js"></script>
-
-
+<script>
+	$(document).ready(function() {
+		$('.work-list li a').magnificPopup({type:'image'});
+	});
+</script>
 </body>
 </html>

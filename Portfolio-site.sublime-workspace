@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"log",
+				"logo-wrap"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"her",
+				"hero-section"
+			],
+			[
+				"fixed",
+				"fixed-nav"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"list-st",
+				"list-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"backgounr",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"link",
+				"LINK	Tag"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"dipper",
+				"dipperSection"
+			],
+			[
+				"sun",
+				"sunSection"
+			],
+			[
+				"scroll",
+				"scrollPos"
+			],
+			[
+				"scr",
+				"scrollPos"
+			],
+			[
+				"chart",
+				"chart__count"
+			],
+			[
+				"cha",
+				"chart__label"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"chart_",
+				"chart__item"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"i",
+				"italic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5511,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 4750,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "404.html",
+			"settings":
+			{
+				"buffer_size": 1267,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/js/magnific.js",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/js/jquery.magnific-popup.min.js",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/js/jquery.magnific-popup.js",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/elton.github.io/css/main.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/elton.github.io/js/main.js",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/grid/css/general.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/grid/portfolio.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-4/js/waypoints.min.js",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-4/css/main.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-4/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/elton.github.io/css/404.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/elton.github.io/404.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/elton.github.io/css/general.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/SEO/human.txt",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/SEO/robots.txt",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/SEO/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-4/js/main.js",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/scrolling-effects-starter-code/js/main.js",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/scrolling-effects-starter-code/css/main.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/scrolling-effects-starter-code/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-2/figure/css/general.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-2/figure/figure.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-2/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-2/css/main.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/transitions/index",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/transitions/CSS/general.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-1/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-1/css/main.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/exercise-0-solution/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".nav",
+			".nav-fixed",
+			"nav-fixed",
+			"Z-INDEX",
+			"behanced",
+			"5px",
+			" ",
+			"nigel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 5511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								682,
+								682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 4750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3959,
+								3959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4201.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								529,
+								529
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "404.html",
+					"settings":
+					{
+						"buffer_size": 1267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/Portfolio-site.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
