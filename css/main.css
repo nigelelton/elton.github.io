@@ -15,7 +15,8 @@ body {
 	padding: 0 0 0 0;
 	font: normal 100%/1.5 helvetica,sans-serif;
 	font-size: 16px;
-	background-color: #ffffff;
+	background-image: url("../images/noise.png");
+	background-repeat: repeat;
 }
 section {
 	padding-top: 7%;
@@ -67,19 +68,24 @@ h2 {
 	font-size: .9em;
 	padding-bottom: 2em;
 	text-transform: uppercase;
-	color: #333333;
+	color: #ffffff;
 }
 
 h3 {
-	color: #333333;
+	color: #ffffff;
 }
 
 
 p {
 	font-size: 1em;
-	color: #333333;
+	color: #ffffff;
 	margin: 0;
 	padding-bottom: 2.2em;
+}
+
+strong {
+	color: #ffffff;
+	background-color: #993333;
 }
 
 .logo {
@@ -93,7 +99,7 @@ p {
 }
 
 .fixed-nav {
-	background-color: #333333;
+	background-color: #222222;
 	position: fixed;
 	top: 0;
 	width: 100%;
@@ -159,7 +165,7 @@ h4 {
 }
 
 footer {
-	background-color: #333333;
+	background-color: #222222;
 	padding: 5em;
 }
 
@@ -246,7 +252,7 @@ h2 {
 }	
 
 h3 {
-	font-size: 3em;
+	font-size: 2em;
 	margin: 0 15% 0 15%;
 }
 
@@ -348,13 +354,13 @@ h2{
 }
 
 h3 {
-	font-size: 3em;
+	font-size: 2.5em;
 	margin: 0 27% 0 27%;
 }
 
 p {
 	margin: 0 27% 0 27%;
-	font-size: 1.5em;
+	font-size: 1.2em;
 }
 }
 
