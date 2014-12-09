@@ -1,17 +1,16 @@
 # TEAM
 
-Designers & developers: Thomas J Bradley
-Site: http://thomasjbradley.ca
-Github: http://github.com/thomasjbradley
-Twitter: @thomasjbradley
+Designers & developers: Nigel Elton
+Site: http://nigelelton.github.io
+Github: http://github.com/nigelelton
 Location: Ottawa, Canada
 
 ---
 
 # THANKS
 
-Slideshow from Some Person <http://slideshow.com>
-Big Image © Another Person <http://geddyimages.com>
+For all the help Alex! <http://www.alexpierceywebdev.com/>
+Dmitry Semenov for creating the Magnific-popup! <http://dimsemenov.com/plugins/magnific-popup/>
 
 ---
 
