@@ -15,7 +15,7 @@ body {
 	padding: 0 0 0 0;
 	font: normal 100%/1.5 helvetica,sans-serif;
 	font-size: 16px;
-	background-image: url("../images/noise.png");
+	background-image: url("../images/noises.png");
 	background-repeat: repeat;
 }
 section {
@@ -167,6 +167,7 @@ h4 {
 footer {
 	background-color: #222222;
 	padding: 5em;
+	background: rgba(34, 34, 34, .5);
 }
 
 footer nav {
