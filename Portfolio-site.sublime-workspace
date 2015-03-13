@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fixed",
+				"fixed_nav_start"
+			],
+			[
 				"pad",
 				"padding-bottom"
 			],
@@ -16,20 +40,8 @@
 				"logo-wrap"
 			],
 			[
-				"fon",
-				"font-size"
-			],
-			[
-				"text",
-				"text-transform"
-			],
-			[
 				"bo",
 				"bolder"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"marg",
@@ -46,10 +58,6 @@
 			[
 				"pa",
 				"padding"
-			],
-			[
-				"te",
-				"text-decoration"
 			],
 			[
 				"z",
@@ -72,16 +80,8 @@
 				"hero-section"
 			],
 			[
-				"fixed",
-				"fixed-nav"
-			],
-			[
 				"back",
 				"background-color"
-			],
-			[
-				"tex",
-				"text-decoration"
 			],
 			[
 				"ul",
@@ -220,34 +220,26 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3-push_nav/index.html",
 			"settings":
 			{
-				"buffer_size": 5511,
+				"buffer_size": 1489,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "css/main.css",
+			"file": "/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3-push_nav/scss/components/_main.scss",
 			"settings":
 			{
-				"buffer_size": 4750,
+				"buffer_size": 2677,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "js/main.js",
+			"file": "/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3-push_nav/scss/components/_push-menu-custom.scss",
 			"settings":
 			{
-				"buffer_size": 566,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "404.html",
-			"settings":
-			{
-				"buffer_size": 1267,
+				"buffer_size": 1728,
 				"line_ending": "Unix"
 			}
 		}
@@ -280,6 +272,22 @@
 	},
 	"file_history":
 	[
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3-push_nav/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3/scss/components/_main.scss",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3/scss/style.scss",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-2-scss/scss/_mixins.scss",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-2-scss/scss/_base.scss",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-2-scss/scss/components/_main.scss",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-2-scss/scss/style.scss",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-2-scss/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/gh-pages/css/fontello.css",
+		"/Users/nigelelton/Documents/Graphic Design 6/Webdev/gh-pages/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/index.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/css/404.css",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/404.html",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/js/main.js",
+		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/css/main.css",
 		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/js/magnific.js",
 		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/js/jquery.magnific-popup.min.js",
 		"/Users/nigelelton/Documents/Graphic Design 5/Web Development/nigelelton.github.io/js/jquery.magnific-popup.js",
@@ -326,6 +334,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"}\n",
+			"test1\\",
+			"bout",
 			".nav",
 			".nav-fixed",
 			"nav-fixed",
@@ -351,112 +362,89 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3-push_nav/index.html",
 					"settings":
 					{
-						"buffer_size": 5511,
+						"buffer_size": 1489,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								682,
-								682
+								1158,
+								1158
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/main.css",
+					"file": "/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3-push_nav/scss/components/_main.scss",
 					"settings":
 					{
-						"buffer_size": 4750,
+						"buffer_size": 2677,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3959,
-								3959
+								668,
+								668
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Syntax-highlighting-for-Sass-master/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4201.0,
+						"translation.y": 532.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "js/main.js",
+					"file": "/Users/nigelelton/Documents/Graphic Design 6/Webdev/exercise-3-push_nav/scss/components/_push-menu-custom.scss",
 					"settings":
 					{
-						"buffer_size": 566,
+						"buffer_size": 1728,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								529,
-								529
+								999,
+								999
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/Syntax-highlighting-for-Sass-master/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "404.html",
-					"settings":
-					{
-						"buffer_size": 1267,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								302,
-								302
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 77.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
